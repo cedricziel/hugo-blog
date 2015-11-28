@@ -1,0 +1,4 @@
+baseurl = "https://blog.cedric-ziel.com/"
+languageCode = "en-us"
+title = "Cedric Ziel"
+theme = "cedricziel"
